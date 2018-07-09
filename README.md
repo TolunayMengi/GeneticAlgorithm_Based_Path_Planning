@@ -23,7 +23,7 @@ Finding Best Path With Genetic Algorithm:
 
 Using the genetic algorithm, allows us to find the best results from a randomly generated population. This give us the possibility to search the wide area and we can compare many different ways on this.
 The genetic algorithm in the project is coded in the C++ programming language.
-The interface of the robot path planning is created in the Phyton programming language.
+The interface of the robot path planning is created with using glut library functions.
 Operations in genetic algorithm:
 
 Path Coding: Transformation of the  path that the robot will follow into the genetic codes.
