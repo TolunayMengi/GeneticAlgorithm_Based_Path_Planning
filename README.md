@@ -17,14 +17,19 @@ Using the genetic algorithm, allows us to find the best results from a randomly 
 The genetic algorithm in the project is coded in the C++ programming language.
 The interface of the robot path planning is created in the Phyton programming language.
 Operations in genetic algorithm:
+
 Path Coding: Transformation of the  path that the robot will follow into the genetic codes.
+
 Selection Operation: Selecting paths from the population. with the highest fitness and transferring to the next generation. Elitism method is used as selection method. With this method, paths with the highest fitness are selecting and they are transferred to next generation.
+
 Crossover Operation: Two paths are selected from the population and crossed to form a new path. The resulting paths are added to the population.
+
 Uniform crossover method is used as a crossover operation in this project. Genes are taken from one of parent paths with equal possibility.
+
 Mutation Operation: Using by a specific ratio of mutation affects, chromosomes’ varieties would be increase that selected by randomly.
 Fitness Function: This function using for calculating value of availability for resolution of elements that in population.
 By the time the calculating function of availability, a ratio of distance a number of step a robot’s cope with that obstacle from to target till bump.
 
-Fitness Value = A number of step till bump to obstacle / A distance from that bump to obstacle to target
+Fitness Value = A number of step till bump to obstacle * A distance from that bump to obstacle to target
 
 
