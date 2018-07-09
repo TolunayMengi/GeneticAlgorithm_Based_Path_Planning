@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (RoughSet_GA_Based_Path_Planning.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Test.cpp
+c:\users\tolunay\desktop\ders\2017-2018 guz\artificial inteligence\proje\aigrup8fİnal\aigrup8code\geneticalgorithm_based_path_planning_10\geneticalgorithm_based_path_planning\test.cpp(166): warning C4018: '<': signed/unsigned mismatch
+c:\users\tolunay\desktop\ders\2017-2018 guz\artificial inteligence\proje\aigrup8fİnal\aigrup8code\geneticalgorithm_based_path_planning_10\geneticalgorithm_based_path_planning\test.cpp(273): warning C4101: 'j': unreferenced local variable
+  myRobot.cpp
+  GeneticAlgorithm.cpp
+c:\users\tolunay\desktop\ders\2017-2018 guz\artificial inteligence\proje\aigrup8fİnal\aigrup8code\geneticalgorithm_based_path_planning_10\geneticalgorithm_based_path_planning\geneticalgorithm.cpp(108): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  GeneticAlgorithm_Based_Path_Planning.vcxproj -> C:\Users\Tolunay\Desktop\ders\2017-2018 Guz\Artificial Inteligence\proje\AIgrup8FİNAL\AIgrup8code\GeneticAlgorithm_Based_Path_Planning_10\Debug\GeneticAlgorithm_Based_Path_Planning.exe
+  GeneticAlgorithm_Based_Path_Planning.vcxproj -> C:\Users\Tolunay\Desktop\ders\2017-2018 Guz\Artificial Inteligence\proje\AIgrup8FİNAL\AIgrup8code\GeneticAlgorithm_Based_Path_Planning_10\Debug\GeneticAlgorithm_Based_Path_Planning.pdb (Partial PDB)
