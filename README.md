@@ -1,6 +1,6 @@
 # GeneticAlgorithm_Based_Path_Planning
 Overview
-This is a project intended to find best path created using genetic algorithms in a randomly generated grid.
+This is a project intended to find best path using genetic algorithms in a randomly generated grid.
 
 Problem Definition
 
@@ -37,6 +37,6 @@ Mutation Operation: Using by a specific ratio of mutation affects, chromosomesâ€
 Fitness Function: This function using for calculating value of availability for resolution of elements that in population.
 By the time the calculating function of availability, a ratio of distance a number of step a robotâ€™s cope with that obstacle from to target till bump.
 
-Fitness Value = A number of step till bump to obstacle * A distance from that bump to obstacle to target
+Fitness Value = (A number of step till bump to obstacle) * (A distance from that bump to obstacle to target)
 
 
