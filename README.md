@@ -1,11 +1,12 @@
 # GeneticAlgorithm_Based_Path_Planning
-Overview/n/n
+Overview:
 This is a project intended to find best path using genetic algorithms in a randomly generated grid.
 
-Problem Definition
+Problem Definition:
 
 The goal of the program is to find the best path from the starting point to the ending point in the 10 to 10 grid with the specified numbers of obstacles for a robot.
-Modelling
+
+Modelling:
 
 Creation of 10 to 10 grid contains the specified numbers of obstacles
 If there are no obstacles, robot can go through from the point where it is located to east, west, north, south, northeast, northwest, southeast, southwest.
@@ -18,7 +19,7 @@ Robot can not go east, if there are obstacles in the northeast, and southeast di
 
 Robot can not go west, if there are obstacles in the northwest, and southwest directions.
 
-Finding Best Path With Genetic Algorithm
+Finding Best Path With Genetic Algorithm:
 
 Using the genetic algorithm, allows us to find the best results from a randomly generated population. This give us the possibility to search the wide area and we can compare many different ways on this.
 The genetic algorithm in the project is coded in the C++ programming language.
